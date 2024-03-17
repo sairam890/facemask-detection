@@ -6,11 +6,7 @@ my project is about detecting the face and it will also detect weather the perso
 Team Details
 Team number : VH017
 
-Name	Email
-sairamreddymedida@gmail.com
-sumanthkumar4322@gmail.com
-99210041479@klu.ac.in
-9921004576@klu.ac.in
+MEDIDA SAI RAM REDDY -sairamreddymedida@gmail.com YANDRAPALLI SUMANTH KUMAR -sumanthkumar4322@gmail.com AKKI DEEPTHIKA -99210041479@klu.ac.in Venkata Sai gopal Abhinav-9921004576@klu.ac.in
 
 Problem statement
 facemask detection,it is useful in healthcare.
